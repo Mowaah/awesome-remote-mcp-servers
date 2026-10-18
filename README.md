@@ -1522,6 +1522,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Intangible Asset Valuation](https://intangible-valuation.simonmak.com) `https://intangible-valuation.simonmak.com/api/mcp`
   [![Intangible Asset Valuation MCP connector](https://glama.ai/mcp/connectors/io.github.simonplmak-cloud/intangible-valuation/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.simonplmak-cloud/intangible-valuation)
   🔓 - 124+ deterministic formulas for IP, relief from royalty, MPEEM, purchase price allocation and impairment.
+- [Invoice & Payment ID Validator](https://rapidapi.com/MohamedBahaa/api/invoice-payment-id-validator) `https://invoice-validator.mohamed-bahaa53000.workers.dev/demo/mcp`
+  [![Invoice & Payment ID Validator MCP connector](https://glama.ai/mcp/connectors/dev.workers.mohamed-bahaa53000.invoice-validator/invoice-payment-id-validator/badges/score.svg)](https://glama.ai/mcp/connectors/dev.workers.mohamed-bahaa53000.invoice-validator/invoice-payment-id-validator)
+  🔓 - Validate IBAN, BIC, EU VAT (live VIES), UK VAT and US EIN; free demo, paid plans on RapidAPI.
 - [InvoiceParser Pro](https://invoiceparserpro.com/ai-assistants) `https://api.invoiceparserpro.com/mcp`
   [![InvoiceParser Pro MCP connector](https://glama.ai/mcp/connectors/com.invoiceparserpro/ipp/badges/score.svg)](https://glama.ai/mcp/connectors/com.invoiceparserpro/ipp)
   🔓 - Read invoices into line items, check the math, and get Excel, CSV or JSON; free trial, no account.
@@ -2924,6 +2927,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Alion](https://alion.io/developers/agents) `https://alion.io/mcp`
   [![Alion MCP connector](https://glama.ai/mcp/connectors/io.alion/alion/badges/score.svg)](https://glama.ai/mcp/connectors/io.alion/alion)
   🔐 - Find companies by industry, funding, stack and growth; lookalikes; startup, investor and due-diligence profiles.
+- [B2B Email & Domain Scorer](https://rapidapi.com/MohamedBahaa/api/b2b-email-domain-scorer) `https://email-scorer.mohamed-bahaa53000.workers.dev/demo/mcp`
+  [![B2B Email & Domain Scorer MCP connector](https://glama.ai/mcp/connectors/dev.workers.mohamed-bahaa53000.email-scorer/b2b-email-domain-scorer/badges/score.svg)](https://glama.ai/mcp/connectors/dev.workers.mohamed-bahaa53000.email-scorer/b2b-email-domain-scorer)
+  🔓 - Score lead emails and domains: business/free/role/disposable, MX, provider, SPF/DMARC; free demo, paid on RapidAPI.
 - [EximAgent](https://eximagent.ai) `https://mcp.eximagent.ai/mcp`
   [![EximAgent MCP connector](https://glama.ai/mcp/connectors/ai.eximagent/eximagent/badges/score.svg)](https://glama.ai/mcp/connectors/ai.eximagent/eximagent)
   🔐 - AI agent team for export-import: find buyers and write outreach, analyze trade data, check HS codes, tariffs and OFAC.
